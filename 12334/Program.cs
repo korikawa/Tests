@@ -7,6 +7,8 @@ namespace _12334
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            int p = int.Parse(Console.ReadLine());
+            Console.WriteLine("EPE : " + p);
         }
     }
 }
